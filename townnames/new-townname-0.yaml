@@ -1,0 +1,131 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Margate
+    probability: 1
+  - name: Ramsgate
+    probability: 1
+  - name: Broadstairs
+    probability: 1
+  - name: Westgate
+    probability: 1
+  - name: Birchington
+    probability: 1
+  - name: Dover
+    probability: 1
+  - name: Deal
+    probability: 1
+  - name: Eastry
+    probability: 1
+  - name: Northdown
+    probability: 1
+  - name: Canterbury
+    probability: 1
+  - name: Minster
+    probability: 1
+  - name: Manston
+    probability: 1
+  - name: St Peters
+    probability: 1
+  - name: Dumpton
+    probability: 1
+  - name: Kingsgate
+    probability: 1
+  - name: Garlinge
+    probability: 1
+  - name: Walmer
+    probability: 1
+  - name: Fordwich
+    probability: 1
+  - name: Herne
+    probability: 1
+  - name: Stourmouth
+    probability: 1
+  - name: Faversham
+    probability: 1
+  - name: Ashford
+    probability: 1
+  - name: Gillingham
+    probability: 1
+  - name: Hythe
+    probability: 1
+  - name: Folkestone
+    probability: 1
+  - name: Hastings
+    probability: 1
+  - name: Rochester
+    probability: 1
+  - name: Sevenoaks
+    probability: 1
+  - name: Maidstone
+    probability: 1
+  - name: Eastbourne
+    probability: 1
+  - name: Heathfield
+    probability: 1
+  - name: Brighton
+    probability: 1
+  - name: Crawley
+    probability: 1
+  - name: Orpington
+    probability: 1
+  - name: Red Hill
+    probability: 1
+  - name: Swanley
+    probability: 1
+  - name: Dartford
+    probability: 1
+  - name: Gravesend
+    probability: 1
+  - name: Haslemere
+    probability: 1
+  - name: Godalming
+    probability: 1
+  - name: Woking
+    probability: 1
+  - name: Cobham
+    probability: 1
+  - name: Weybridge
+    probability: 1
+  - name: Frimley
+    probability: 1
+  - name: Aldershot
+    probability: 1
+  - name: Ascot
+    probability: 1
+  - name: Henley
+    probability: 1
+  - name: Sonning
+    probability: 1
+  - name: Pangbourne
+    probability: 1
+  - name: Theale
+    probability: 1
+  - name: Tadley
+    probability: 1
+  - name: Newbury
+    probability: 1
+  - name: Didcot
+    probability: 1
+  - name: Caversham
+    probability: 1
+  - name: Sonning
+    probability: 1
+  - name: Chesham
+    probability: 1
+  - name: Watford
+    probability: 1
+  - name: Rochford
+    probability: 1
+  - name: Southend
+    probability: 1
+  - name: Wimbledon
+    probability: 1
+  - name: Croyden
+    probability: 1
+  - name: Redbridge
+    probability: 1
+name: 'New Townname #0'
+source: null
+subsets: []
